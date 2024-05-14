@@ -1,0 +1,59 @@
+{
+  "roadmap": [
+    {
+      "name": "Advanced Javascript",
+      "domain": "Backend",
+      "totalDuration": 0,
+      "totalDays": 0,
+      "id": "1",
+      "data": [
+        {
+          "day": "Day 01",
+          "topics": [
+            {
+              "id": "duiuvmb",
+              "topicName": "HTML Fundamental",
+              "subtopic": "Introduction, HTML Document, The Head Element,The Body Element, ID and Class Attributes, Comments, Coding conventions",
+              "duration": "30m"
+            },
+            {
+              "id": "pewvxqvm",
+              "topicName": "Text Elements",
+              "subtopic": "Headings, Block vs Inline Elements, Text Breaking and white space, Additional Text Element, Best Practice",
+              "duration": "30m"
+            },
+            {
+              "id": "nthvgdqav",
+              "topicName": "List Elements",
+              "subtopic": "List Types, Creating Lists, Best Practice",
+              "duration": "30m"
+            }
+          ]
+        },
+        {
+          "day": "Day 02",
+          "topics": [
+            {
+              "id": "duiuvmb",
+              "topicName": "HTML Fundamental",
+              "subtopic": "Introduction, HTML Document, The Head Element,The Body Element, ID and Class Attributes, Comments, Coding conventions",
+              "duration": "30m"
+            },
+            {
+              "id": "pewvxqvm",
+              "topicName": "Text Elements",
+              "subtopic": "Headings, Block vs Inline Elements, Text Breaking and white space, Additional Text Element, Best Practice",
+              "duration": "30m"
+            },
+            {
+              "id": "nthvgdqav",
+              "topicName": "List Elements",
+              "subtopic": "List Types, Creating Lists, Best Practice",
+              "duration": "30m"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
